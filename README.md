@@ -17,3 +17,5 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 Test Git Polling
 
 Test Git hook to trigger a Jenkins job! It works as expected!
+
+Update from Git command line!
